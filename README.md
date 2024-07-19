@@ -1,1 +1,2 @@
-# -this-is-my-first-commint .this is my first repository 
+# -this-is-my-first-commint .
+my first day 
